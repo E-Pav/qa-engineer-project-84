@@ -42,3 +42,18 @@
 - summary: |
     Фильтр по стоимости
   status: pass   
+
+- summary: |
+    Проверка работы в браузере Chrome (Blink)
+  status: pass   
+
+- summary: |
+    Проверка работы в браузере Firefox (Gecko)
+  status: pass   
+
+- summary: |
+    Проверка работы в браузере Safari (WebKit)
+  status: fail
+
+
+
