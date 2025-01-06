@@ -53,7 +53,7 @@
 
 - summary: |
     Проверка работы в браузере Safari (WebKit)
-  status: fail
+  status: pass
 
 - summary: |
     Проверка переключения языка Русский - Английский
