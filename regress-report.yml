@@ -42,7 +42,7 @@ bugreports:
 
   - summary: |
     Проверка регистрации нового пользователя
-  status: fail
+    status: fail
 
 bugreports:
   - summary: |
