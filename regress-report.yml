@@ -1,6 +1,6 @@
 ---
 test-cases:
-- summary: |
+  - summary: |
     Проверка работы на мобильном устройстве. Вертикальное
   status: fail
 
