@@ -27,7 +27,7 @@
     Google Chrome Версия 131.0.6778.205 (Официальная сборка), (64 бит)
     Эмуляция Samsung Galaxy A51/71 412x914pix, iPhone 12Pro 390x844pix
     ОС Win11 Pro Rus
- steps-to-reproduce: |
+  steps-to-reproduce: |
     - Пройти на страницу авторизацию юзера
     - Вводим логин, пароль
     - Положить в корзину 2 товара
